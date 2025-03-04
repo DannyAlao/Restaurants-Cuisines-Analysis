@@ -1,6 +1,8 @@
 # Restaurants Cuisines Analysis
 --------------------------------
 
+![](Cuisines_Image.png)
+
 ## Introduction
 This analysis provides a comprehensive and in-depth understanding of customer cuisine preferences across various restaurants. Leveraging Python, the project employs detailed data exploration, statistical analysis, and visualization techniques to uncover meaningful insights. The analysis focuses on identifying the top three cuisines served by restaurants, highlighting the cities with the highest number of restaurants, and analyzing customer ratings to determine the city with the highest average rating. It also examines the distribution of price ranges among restaurants and evaluates the adoption of online delivery systems, including the percentages of online versus offline deliveries. Further, the analysis explores restaurant ratings, comparing those offering online delivery services with those that do not, and identifies the most common rating ranges and average ratings. Additionally, it investigates the correlation between cuisine combinations and ratings, patterns of restaurant locations, and the popularity of restaurant chains. The insights generated aim to empower key stakeholders — such as restaurant administrators, sales and marketing teams, operations managers, and cuisine experts—with actionable recommendations for informed decision-making and strategic planning to better serve their customers.
 
