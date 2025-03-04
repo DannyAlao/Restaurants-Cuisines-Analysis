@@ -5,14 +5,14 @@
 This analysis provides a comprehensive and in-depth understanding of customer cuisine preferences across various restaurants. Leveraging Python, the project employs detailed data exploration, statistical analysis, and visualization techniques to uncover meaningful insights. The analysis focuses on identifying the top three cuisines served by restaurants, highlighting the cities with the highest number of restaurants, and analyzing customer ratings to determine the city with the highest average rating. It also examines the distribution of price ranges among restaurants and evaluates the adoption of online delivery systems, including the percentages of online versus offline deliveries. Further, the analysis explores restaurant ratings, comparing those offering online delivery services with those that do not, and identifies the most common rating ranges and average ratings. Additionally, it investigates the correlation between cuisine combinations and ratings, patterns of restaurant locations, and the popularity of restaurant chains. The insights generated aim to empower key stakeholders — such as restaurant administrators, sales and marketing teams, operations managers, and cuisine experts—with actionable recommendations for informed decision-making and strategic planning to better serve their customers.
 
 ## Table of Content
-- Overview
-- Objectives
-- Document Purpose
-- Use Case
-- Skills Demonstrated
-- Data Analysis and Insights
-- Recommendations
-- Conclusion
+- [Overview](https://github.com/DannyAlao/Restaurants-Cuisines-Analysis#overview)
+- [Objectives](https://github.com/DannyAlao/Restaurants-Cuisines-Analysis?tab=readme-ov-file#objectives)
+- [Document Purpose](https://github.com/DannyAlao/Restaurants-Cuisines-Analysis?tab=readme-ov-file#document-purpose)
+- [Use Case](https://github.com/DannyAlao/Restaurants-Cuisines-Analysis?tab=readme-ov-file#use-case)
+- [Skills Demonstrated](https://github.com/DannyAlao/Restaurants-Cuisines-Analysis?tab=readme-ov-file#skills-demonstrated)
+- [Data Analysis and Insights](https://github.com/DannyAlao/Restaurants-Cuisines-Analysis?tab=readme-ov-file#data-analysis-and-insights)
+- [Recommendations](https://github.com/DannyAlao/Restaurants-Cuisines-Analysis?tab=readme-ov-file#recommendations)
+- [Conclusion](https://github.com/DannyAlao/Restaurants-Cuisines-Analysis?tab=readme-ov-file#conclusion)
 
 ## Overview
 This analysis utilizes Python to examine restaurant cuisines across various cities worldwide. It identifies the top three most-served cuisines, the cities with the highest number of restaurants, and the city with the highest average customer rating. Additionally, it explores price range distribution, online vs. offline delivery adoption, and the impact of online delivery on ratings. The study also analyzes cuisine combinations, restaurant location patterns, and the popularity of restaurant chains.
