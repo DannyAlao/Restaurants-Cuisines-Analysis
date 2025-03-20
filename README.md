@@ -17,7 +17,7 @@ This analysis provides a comprehensive and in-depth understanding of customer cu
 - [Conclusion](https://github.com/DannyAlao/Restaurants-Cuisines-Analysis?tab=readme-ov-file#conclusion)
 
 ## Overview
-This analysis utilizes Python to examine restaurant cuisines across various cities worldwide. It identifies the top three most-served cuisines, the cities with the highest number of restaurants, and the city with the highest average customer rating. Additionally, it explores price range distribution, online vs. offline delivery adoption, and the impact of online delivery on ratings. The study also analyzes cuisine combinations, restaurant location patterns, and the popularity of restaurant chains.
+This analysis utilizes Python to examine restaurant cuisines across various cities worldwide. It identifies the top three most-served cuisines, the cities with the highest number of restaurants, and the city with the highest average customer rating. Additionally, it explores price range distribution, online vs. offline delivery adoption, and the impact of online delivery on ratings. The project also analyzes cuisine combinations, restaurant location patterns, and the popularity of restaurant chains.
 
 ## Objectives
 This analysis aims to provide detailed insights into restaurant cuisines by addressing the following key areas:
